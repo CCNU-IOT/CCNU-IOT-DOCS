@@ -1,4 +1,3 @@
-# CCNU-IOT-DOCS
+# Hardware-Group
 
-- 物联网协会公共仓库，请各组建立独立的分支，保持干净的**main**分支。
-  - 分支示例`hardware-group`为例。
+- 该分支为物联网协会硬件组分支，请不要和**main**分支合并。
